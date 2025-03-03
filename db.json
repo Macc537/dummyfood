@@ -1,0 +1,172 @@
+{
+  "restaurants": [
+    {
+      "restaurant": {
+        "id": "RES133",
+        "name": "Spice Symphony",
+        "cuisine": ["Indian", "Continental"],
+        "rating": 4.7,
+        "deliveryTime": "25 mins",
+        "image": "https://images.unsplash.com/photo-1600788901729-b17208f1e39d",
+        "address": "808, Flavor Street, Mumbai",
+        "contact": "+91 98765 43220",
+        "menu": [
+          {
+            "id": "ITEM013",
+            "name": "Tandoori Paneer",
+            "price": 270,
+            "category": "Starters",
+            "image": "https://images.unsplash.com/photo-1554998171-706e730d7219"
+          }
+        ]
+      }
+    },
+    {
+      "restaurant": {
+        "id": "RES134",
+        "name": "Sizzler House",
+        "cuisine": ["Steakhouse", "Continental"],
+        "rating": 4.5,
+        "deliveryTime": "35 mins",
+        "image": "https://images.unsplash.com/photo-1605478371446-a1e97e47fddc",
+        "address": "909, Grill Street, Delhi",
+        "contact": "+91 98765 43221",
+        "menu": [
+          {
+            "id": "ITEM014",
+            "name": "Chicken Sizzler",
+            "price": 400,
+            "category": "Main Course",
+            "image": "https://images.unsplash.com/photo-1571091718767-18b5b1457dd7"
+          }
+        ]
+      }
+    },
+    {
+      "restaurant": {
+        "id": "RES135",
+        "name": "Veggie Delight",
+        "cuisine": ["Vegan", "Healthy"],
+        "rating": 4.8,
+        "deliveryTime": "20 mins",
+        "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd",
+        "address": "1001, Green Lane, Bengaluru",
+        "contact": "+91 98765 43222",
+        "menu": [
+          {
+            "id": "ITEM015",
+            "name": "Quinoa Salad",
+            "price": 250,
+            "category": "Salads",
+            "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd"
+          }
+        ]
+      }
+    },
+    {
+      "restaurant": {
+        "id": "RES136",
+        "name": "Noodle House",
+        "cuisine": ["Chinese", "Thai"],
+        "rating": 4.6,
+        "deliveryTime": "30 mins",
+        "image": "https://images.unsplash.com/photo-1579871494447-9811e02d6946",
+        "address": "1102, Wok Street, Chennai",
+        "contact": "+91 98765 43223",
+        "menu": [
+          {
+            "id": "ITEM016",
+            "name": "Hakka Noodles",
+            "price": 200,
+            "category": "Main Course",
+            "image": "https://images.unsplash.com/photo-1578916171728-46686eac8d36"
+          }
+        ]
+      }
+    },
+    {
+      "restaurant": {
+        "id": "RES137",
+        "name": "BBQ Nation",
+        "cuisine": ["Barbecue", "Indian"],
+        "rating": 4.9,
+        "deliveryTime": "45 mins",
+        "image": "https://images.unsplash.com/photo-1552910812-70f1264c52e5",
+        "address": "1203, Smoke Lane, Hyderabad",
+        "contact": "+91 98765 43224",
+        "menu": [
+          {
+            "id": "ITEM017",
+            "name": "Lamb Chops",
+            "price": 550,
+            "category": "Grilled",
+            "image": "https://images.unsplash.com/photo-1588168333986-5078d3ae394f"
+          }
+        ]
+      }
+    },
+    {
+      "restaurant": {
+        "id": "RES138",
+        "name": "Pizza Mania",
+        "cuisine": ["Italian", "Fast Food"],
+        "rating": 3.4,
+        "deliveryTime": "25 mins",
+        "image": "https://images.unsplash.com/photo-1571091718699-0f6c3fc621cf",
+        "address": "1304, Mozzarella Street, Pune",
+        "contact": "+91 98765 43225",
+        "menu": [
+          {
+            "id": "ITEM018",
+            "name": "Pepperoni Pizza",
+            "price": 350,
+            "category": "Pizzas",
+            "image": "https://images.unsplash.com/photo-1571771948764-3c73001c5fdb"
+          }
+        ]
+      }
+    },
+    {
+      "restaurant": {
+        "id": "RES139",
+        "name": "Seafood Shack",
+        "cuisine": ["Seafood", "Coastal"],
+        "rating": 3.7,
+        "deliveryTime": "40 mins",
+        "image": "https://images.unsplash.com/photo-1562514155-170f310c1f60",
+        "address": "1405, Ocean Avenue, Goa",
+        "contact": "+91 98765 43226",
+        "menu": [
+          {
+            "id": "ITEM019",
+            "name": "Grilled Prawns",
+            "price": 480,
+            "category": "Seafood",
+            "image": "https://images.unsplash.com/photo-1607473128464-5eaf734ba24b"
+          }
+        ]
+      }
+    },
+    {
+      "restaurant": {
+        "id": "RES140",
+        "name": "Dessert Heaven",
+        "cuisine": ["Desserts", "Bakery"],
+        "rating": 3.5,
+        "deliveryTime": "20 mins",
+        "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87",
+        "address": "1506, Sugar Lane, Ahmedabad",
+        "contact": "+91 98765 43227",
+        "menu": [
+          {
+            "id": "ITEM020",
+            "name": "Red Velvet Cake",
+            "price": 380,
+            "category": "Cakes",
+            "image": "https://images.unsplash.com/photo-1599789197514-22c5e84dc333"
+          }
+        ]
+      }
+    }
+  ]
+}

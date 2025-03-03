@@ -1,0 +1,69 @@
+/* Styles for restaurant details */
+.restaurant-detail {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Restaurant image */
+  .restaurant-detail img {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 15px;
+  }
+  
+  /* Styles for menu section */
+  .menu {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  /* Align menu items properly */
+  .menu-item {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .menu-item img {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+  
+  .menu-item h4 {
+    margin: 0;
+    font-size: 18px;
+  }
+  
+  .menu-item p {
+    margin: 5px 0;
+    font-size: 14px;
+  }
+  
+  /* Add to Cart button */
+  .menu-item button {
+    margin-left: auto;
+    padding: 8px 12px;
+    background-color: #ff6600;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
+  }
+  
+  .menu-item button:hover {
+    background-color: #e65c00;
+  }
+  
